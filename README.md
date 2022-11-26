@@ -1,7 +1,7 @@
 ### olá! eu sou Carlos Eduardo 
 
 
-- 🌱 estundando analise e desenvolvimento de sistemas 
+- 🌱estou estundando analise e desenvolvimento de sistemas 
 - 😄 Pronouns: ele/dele
 
 <div align="center">
