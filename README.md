@@ -1,33 +1,18 @@
-### olá! eu sou Carlos Eduardo 
+# 💫 About Me:
+Olá me chamo Carlos Eduardo<br>sou estudante de analise e desenvolvimento de sistemas <br>minha linguagem principal é python<br>😄 Pronomes: ele/dele
 
 
-- 🌱estou estundando analise e desenvolvimento de sistemas 
-- 😄 Pronouns: ele/dele
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/carlos-eduardo-555ab5231/) 
 
-<div align="center">
-  <a href="https://github.com/carlosefl">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosefl&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosefl&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=carlosefl&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=carlosefl&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosefl&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  
-  
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
-  
-</div>
-  
-  ##
-  
-<div> 
-  
-  <a href="https://instagram.com/carlos_eduardo_artsword" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:art97496@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/carlos-eduardo-555ab5231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
- 
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=carlosefl&icon=5&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
