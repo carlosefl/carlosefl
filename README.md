@@ -1,6 +1,6 @@
 # 💫 About Me:
 Olá me chamo Carlos Eduardo<br>sou desenvolvedor full stack em aprendizagem <br>minha linguagem principal é python<br>
-<3/6 analise e desemvolvimento de sistemas >
+3/6 analise e desemvolvimento de sistemas 
 😄 Pronomes: ele/dele
 
 
