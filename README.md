@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá Me Chamo Carlos Eduardo<br>Sou Desenvolvedor Full Stack<br>Minha Linguagem Principal É Python<br>
+Olá Me Chamo Carlos Eduardo<br>Sou Desenvolvedor Full Stack<br><br>
 4/6 Analise E Desenvolvimento De Sistemas 
 
 
