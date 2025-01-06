@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá meu nome é Carlos Eduardo sou um Desenvolvedor FullStack tendo um amplo<br>conhecimento em varias linguagens.<br><br> Analise e Desenvolvimento de Sistemas 💻
+Olá meu nome é Carlos Eduardo sou um Desenvolvedor Back-end tendo um amplo<br>conhecimento em varias linguagens.<br><br> Analise e Desenvolvimento de Sistemas 💻
 
 
 ## 🌐 Socials:
